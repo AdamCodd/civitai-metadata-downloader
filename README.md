@@ -4,7 +4,7 @@ This script was developed after some unsuccessful attempts to build a dataset us
 ## Description
 The script uses Selenium WebDriver for Python to navigate Civitai's website and extract metadata for each image within a specified range. A headless Chrome browser is used to streamline the process and avoid anti-bot measures. The metadata for each image is then saved in JSON format to a designated output file.
 
-**Configuration**: You can configure the script to specify the range of image IDs you want to scrape and the output file for the metadata.
+**Configuration**: You can configure the script to specify the range of image IDs you want to scrape and the output file for the metadata. You need to have Selenium installed to run this script.
 
 ## Installation
 Clone the Repository

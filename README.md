@@ -7,3 +7,14 @@ The script uses Selenium WebDriver for Python to navigate Civitai's website and 
 **Dependencies**: Make sure to have Python and Selenium WebDriver installed. The script also requires the ChromeDriver executable to be in your PATH.
 
 **Configuration**: You can configure the script to specify the range of image IDs you want to scrape and the output file for the metadata.
+
+## Installation
+Clone the Repository
+```
+git clone https://github.com/AdamCodd/civitai-metadata-downloader.git
+cd civitai-metadata-downloader
+```
+Ensure you have Python 3.6+ installed, then run:
+```
+pip install -r requirements.txt
+```
